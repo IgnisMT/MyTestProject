@@ -1,3 +1,3 @@
 # MyTestProject
-This is a test.
-Second test.
+-This is a test.
+-Second test.
